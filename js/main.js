@@ -309,4 +309,3 @@
 
 }());
 
-// for animation
