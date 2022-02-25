@@ -1433,4 +1433,7 @@ body.offcanvas {
 * {box-sizing:border-box}
 
 /*videocorousel*/
+.owl-carousel .item-video {
+  height: 300px;
+}
 
