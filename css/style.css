@@ -1432,9 +1432,7 @@ body.offcanvas {
 
 * {box-sizing:border-box}
 
-
-
-/*videocorousel
+/*videocorousel*/
 .owl-carousel .item-video {
   height: 300px;
 }
@@ -1444,7 +1442,7 @@ body {
 
 /*----------------------------*\
       Coverflow Album Slider 
-\*-----------------------------
+\*-----------------------------*/
 .coverflow {
   position: relative;
   height: 460px;

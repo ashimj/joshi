@@ -309,8 +309,6 @@
 
 }());
 
-/*
-
 //videocorousel
 $(function() {
   $(".owl-carousel").owlCarousel({
@@ -336,7 +334,7 @@ $(function() {
 });
 /*------------------------------
         Album Cover Slider
---------------------------------
+--------------------------------*/
 //start added by Chase
 var a = document.getElementsByTagName("a");
 var cfImg = document.getElementsByClassName("coverflow__image");
